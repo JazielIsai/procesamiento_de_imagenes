@@ -2,10 +2,12 @@
 Operaciones Puntuales sobre imágenes
 
 1.- Operador identidad
-la entrada es igual a la salida: P = Q
+la entrada es igual a la salida: 
+     P = Q
 
 2.- Operador inverso o negativo
-la salida es igual a a la entrada: Q = P EJEMPLO: Q = 255 - P  = 0
+la salida es igual a a la entrada: 
+     Q = P EJEMPLO: Q = 255 - P  = 0
 
 3.- Operador Umbral
      q = 0 para p <= p,
