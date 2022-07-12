@@ -49,11 +49,9 @@ la salida es igual a a la entrada:
 
 10.- Operador reducción nivel gris
     
-    q = 0 para p <= p1
-    -q1 = para p1 < p <= p2
-    q2 = para p2 < p <= p3
-    .
-    .
-    qn para pn-1 < p <= 255
-
-=
+     q = 0 para p <= p1
+     q = - q1 para p1 < p <= p2
+     q = q2 para p2 < p <= p3
+     .
+     .
+     qn para pn-1 < p <= 255
